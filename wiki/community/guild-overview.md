@@ -4,7 +4,7 @@ description: Guilds are the heart beat of the NEARVerse.
 
 # Guilds on NEAR
 
-1. **WHAT IS A GUILD **
+<h1>What is a Guild?</h1>
 
 **What is a Guild?** Guilds within the NEARverse are collaborative groups of people with a shared sense of purpose, vision and goals, that are helping build the NEAR ecosystem.
 
@@ -16,7 +16,7 @@ A successful guild builds a solid, active and engaged community around it; all w
 
 
 
-2. **WHY SHOULD I JOIN A GUILD **
+<h1>Why Should I Join a Guild?</h1>
 
 **What are the benefits of being part of a Guild?**
 
@@ -26,11 +26,11 @@ A successful guild builds a solid, active and engaged community around it; all w
 
 -Belong to your own tribe within the NEAR community. Make friends and connections while pursuing a mission you’re passionate about.
 
-**Who should join a Guild?**
+<h2>Who Should Join a Guild?</h2>
 
 Guilds are groups of people working together to build and create within NEAR’s ecosystem. Guilds are for anyone looking to take part and contribute to the building of web3 and the decentralized web. Not sure where to start? There are Guilds specialising in all kinds of different things: from developers in Russia to Meme Creators in Vietnam and everything in between. 
 
-3. **HOW CAN I JOIN A GUILD**
+<h1> How Can I Join a Guild? </h1>
 
 **What should I expect when I join a guild?**
 
@@ -50,17 +50,17 @@ If you want to contribute but aren’t sure about joining a Guild right now, you
 
 Join one of our social channels and learn more:
 
-→Discord
+→ [Discord](https://discord.com/invite/UY9Xf2k)
 
-→ Reddit
+→ [Reddit](https://www.reddit.com/r/nearprotocol)
 
-→ Telegram
+→ [Telegram](https://t.me/cryptonear)
 
-→ Forum 
+→ [Forum](https://gov.near.org/)
 
 
 
-4. **HOW CAN I START A GUILD?**
+<h1> How Can I Start a Guild? </h1>
 
 **How to Create a Guild; **
 
