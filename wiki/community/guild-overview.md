@@ -6,15 +6,17 @@ description: Guilds are the heart beat of the NEARVerse.
 
 <h1>What is a Guild?</h1>
 
-**What is a Guild?** Guilds within the NEARverse are collaborative groups of people with a shared sense of purpose, vision and goals, that are helping build the NEAR ecosystem.
+**What is a Guild?** 
 
-**What is the Goal of a Guild?** To provide a way to support, organise and mobilize communities of people on NEAR.These people should be linked to NEAR via an on-chain account but otherwise things are pretty flexible.
+Guilds within the NEARverse are collaborative groups of people with a shared sense of purpose, vision and goals, that are helping build the NEAR ecosystem.
 
-**What defines a successful Guild? **
+**What is the Goal of a Guild?** 
+
+To provide a way to support, organise and mobilize communities of people on NEAR.These people should be linked to NEAR via an on-chain account but otherwise things are pretty flexible.
+
+**What defines a successful Guild?**
 
 A successful guild builds a solid, active and engaged community around it; all working towards the wider goals of the NEAR ecosystem. 
-
-
 
 <h1>Why Should I Join a Guild?</h1>
 
@@ -62,23 +64,17 @@ Join one of our social channels and learn more:
 
 <h1> How Can I Start a Guild? </h1>
 
-**How to Create a Guild; **
-
-**Step one: **
+**Step one:**
 
 Ensure that you have browsed through our directory of guilds to check if you can contribute to an already existing guild [https://near.org/guilds/](https://near.org/guilds/).
 
 If you have general questions about Guilds or you want to know what a Guild Leader is, what to expect as a representative of your Community?! reach out to us here:[ https://nearverse.typeform.com/to/vs6blz9z](https://nearverse.typeform.com/to/vs6blz9z). 
 
-**How to Create a Guild; **
-
-**Step two: **
+**Step two:**
 
 Once you’ve filled out the form, the Guilds Team will schedule a 1 on 1 call with you. We will be there to answer any further questions you might have about the ecosystem and provide all the available resources. We will also support you to refine your proposal/roadmap on the Governance Forum before moving onto the next stage. 
 
 After receiving an overview about your prospective guild plans and needs, the guilds team will be able to guide you in a more specific way depending on your general guild theme (geographical/ creative/ marketing focused guild etc). It’s always a good idea to get connected with guilds/contributors with a similar passion. You can make a post in the forum to get feedback from the community and find interested candidates to potentially help your cause.  
-
-**How to Create a Guild; **
 
 **Step Three:**
 
@@ -89,8 +85,6 @@ After receiving an overview about your prospective guild plans and needs, the gu
 -Create your DAO/Community.
 
 -Create your announcement post on the forum; [here’s a template](https://gov.near.org/t/template-guild-introduction-post/3450) to follow. 
-
-**How to Create a Guild; **
 
 **Step Four:**
 
